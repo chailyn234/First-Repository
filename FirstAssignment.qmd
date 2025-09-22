@@ -1,0 +1,52 @@
+---
+title: "CR_FOWS7200"
+format: html
+editor: visual
+---
+
+## First Assignment
+
+Find area of a circle with radius 5 cm.
+
+Formula: ¶ \* r\^2
+
+where r is the radius.
+
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+```
+
+\
+![](EpiTriad (1).png)
+
+**The epidemiological triad helps explain how diseases spread, but it only shows one pathway. There are three parts to it: the agent, the host, and the environment.**
+
+------------------------------------------------------------------------
+
+![](ss_table.png)\
+1. Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%. Answer : 59 for 5%
+
+2.  Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:
+
+A. 95% confidence in detecting a disease at 1% prevalence in a large population.
+
+The sample size for a large population would require a larger sample size such as 299 for an infinite population.
+
+B. 99% confidence in detecting a disease at 2% prevalence in a large population
+
+The sample for a large population would require a smaller sample size such as 229 for an infinite population.
+
+The higher prevalence reduces the sample size for part be.
+
+3.  You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \_\_\_\_\_\_ (\<,=,\>) \_\_\_\_%
+
+Answer: \<1%
+
+3/300 = 0.01 so 1%
