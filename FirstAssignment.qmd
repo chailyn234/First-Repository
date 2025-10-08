@@ -50,3 +50,107 @@ The higher prevalence reduces the sample size for part be.
 Answer: \<1%
 
 3/300 = 0.01 so 1%
+
+___________________________________________________________________________
+Exam 1: 
+Chailyn Robinson 
+
+
+
+
+1. Compared to macroparasites, microparasites have a shorter generation time and do not reproduce within the host
+
+a. False: The following statement is false because microparasites do not reproduce within the host. They are small with reproduction rate and their numbers increase inside the host, usually causing short lived but sometimes severe infections. Macroparasites don't multiply within the host, they produce eggs that leave the host, making their numbers constant. 
+b. False: This statement is false because disease models are too simple and do not account for the many factors that affect real host-pathogen systems. The epidemiological trait only represents one system, and not the others that theoretically exist. Most pathogens are multi-host, infecting different species. Hosts can also be infected by multiple pathogens at once, causing different effects. 
+c. False. This statement is false because Chaga is a vector-borne disease. Not all infectious diseases are contagious such as tetanus and malaria. 
+d. False. This statement is false because epizootic hemorrhagic disease does not always cause severe outbreaks. This depends on a location as well as deer immunity in that area. While some populations can recover from epizootic hemorrhagic disease, others have high mortality rates. 
+e. False. The white-tailed deer are infected and infectious. They would not be diseased because the pathogen is not causing harm and the deers are not experiencing symptoms. The deers are considered infected because they carry the pathogen and they are considered infectious because they can infect other deer when they shed the pathogen in their secretions.
+f. False. HPS is not transmitted to humans by a vector. Rodent droppings (feces) are responsible for the transmission of the disease. Humans can get the disease from inhalation, indirect, and direct contact with the secretions.
+
+ 
+2. Compare and contrast the two measures of frequency of disease. 
+Prevalence is the number of affected individuals over the total number of individuals. It focuses on existing cases whereas incidence focuses on new cases. Incidence is the number of new cases of disease during a fixed time period, over the number of animals at risk of developing disease. The key difference is that the denominator only reflects those at risk. 
+3.
+a. 2
+b. 7
+c. 7
+d. 5
+e. 1
+f. 4
+
+4. Dead end host 
+
+5.
+Measles : It is in days and the formula uses weeks so 8 days is 1.14 weeks.
+1/1.14 = 0.877 per week 
+Rotavirus : .50 : 1/infectious period so …
+½  = .50 per weeks
+
+Measles : β = 15 x 0.877 = 13.16 per week
+Rotavirus : β =17x 0.5 = 8.5 per week
+= 15x (1 − 0.8) = 15 x 0.2 = 3
+
+
+6. 
+Infected but not diseased: 
+This is possible because a host can carry the disease but not show symptoms or clinical signs. White tailed deer are a great example of this system because when infected with brain worms, they can carry the parasite but not present any clinical signs.
+
+Infected but not diseased. 
+This system is possible because a host can be infected and show signs of disease. This is observed with many diseases. An example could be Streptococcus pneumoniae. This pathogen is usually presented with a diseased state where humans experience symptoms of disease.
+
+Not infected but diseased. 
+This system is not possible because in order for a host to be diseased, it must be infected. With no infection, they are not diseased.
+
+7. 
+Campylobacteriosis: 2-7 days 
+Norovirus gastroenteritis: 12-72 hours 
+
+8. In 2015 the Saiga antelope landscape dropped when over 200,000 animals died within hours.This was due to a bacterial disease found in the nasal passage of the antelopes. The bacteria was always there but due to livestock stress the bacteria became pathogenic. This info was not sufficient and scientists figured it was due to an environmental factor. They found that a harmless vector conr=tributed to the mortality events and high temperatures were tracked days leading up to this event. It is also worth noting that females were under a huge amount of stress from pregnancy. This physiological stress made them more susceptible and contributed to the phenomenon. This case illustrated how a normal bacterium can become deadly under certain environmental and host stress. It may be difficult to control the environmental aspects of the issue, but there are things that can be done to prevent similar events. One way is vaccinating to reduce disease pressure and stress on wildlife populations. Effective monitoring of environmental conditions and animal health could predict similar risk periods.  Finally, in order to preserve wild Saiga antelope conservationists can try to reduce hunting of the species and protect their habitat. This will give the antelopes a chance to bounce back and reduce other threats like poaching.
+
+9. I agree 100% with Aldo Leopold's statement because wildlife is not just about the pathogen or hosts biology but it is linked with ecological context. Climate change is a great example of how humans play a role in stressors in the environment. This can alter hibernation conditions and local ecosystems making animals more vulnerable. Saiga antelopes became deadly due to extreme environmental conditions, one of which was high temperatures. Human action has made climate change a large issue and it could potentially increase the frequency of such heat events. Another example of how human activities can play a role in disease dynamics is pathogens contaminating water due to runoff. Whether this is done by fecal matter or other contaminates, human activities have contributed to the spread of disease. 
+
+10. 
+Scenario
+1 : R0=1
+2 : R0=3
+3 : R0=2
+4 : R0=0
+R0 is the basic reproduction number. It is the average number of new infections caused by a single infected person. In this case the infected person is red. In each scenario, it infects a certain amount of other flamingos in a fully susceptible population. If R0 is greater than 1 it is an outbreak. So in the case of R0 being 3, each infectious flamingo infects 3 others on average. This means the disease is spreading fast and is a potential outbreak . In the case of R0, there is no outbreak because they did not pass it along so the infection will die out if it was not spread. 
+
+11.
+ A. 
+2015: 133 − 0 = 133
+2016: 125 − 2 = 123
+2017: 112 − 4 = 108
+2018: 145 − 5 = 140
+2019: 136 − 4 = 132
+INCIDENCE 
+2015: 4/133 = 0.030075 = 0.030
+2016: 5/123 = 0.040650 = 0.041
+2017: 8/108 = 0.074074 = 0.074 HIGHEST INCIDENCE
+2018: 4/140 = 0.028571 = 0.029
+2019: 2/132 = 0.015152 = 0.01
+
+B. 
+2015: 0+4 = 
+2016: 2+5 = 7
+2017: 4+8 = 12
+2018: 5+4 = 9
+2019: 4+2 = 6
+
+PREVALENCE
+
+2015: 4 ÷ 133 = 0.030075 ≈ 0.030 lowest PREVALENCE 
+2016: 7 ÷ 125 = 0.056
+2017: 12 ÷ 112 = 0.107143 ≈ 0.107 highest PREVALENCE
+2018: 9 ÷ 145 = 0.062069 ≈ 0.062
+2019: 6 ÷ 136 = 0.044118 ≈ 0.044
+
+12. 
+Heard immunity threshold : 1 - 1/R0
+1-⅓= 1-0.3333 = 0.6667
+66.7% of population needs to be immune to prevent the outbreak
+Total immune needed : 0.6667x5400 = 3600
+Immune seals = 1080
+So 3600-1080 = 2520 need to be vaccinated 
+
