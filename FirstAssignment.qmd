@@ -187,4 +187,16 @@ It could be possible that people are aware of the infection since scientist and 
 Citations: Lambrou AS, South E, Midgley CM, et al. Update on the Epidemiology of Middle East Respiratory Syndrome Coronavirus — Worldwide, 2017–2023. MMWR Morb Mortal Wkly Rep 2025;74:313–320. DOI: http://dx.doi.org/10.15585/mmwr.mm7419a1
 
 _______________
-.
+Worksheet 6
+Pond 1 : 
+Prev: 30%
+95% Cl: (14%, 52%)
+pvalue 0.1987
+
+Pond 2: 
+Prev: 6.7%
+95% CL: (0.03%, 30%)
+pvalue 0.1987
+
+Since the p value is greater than 0.05 the result is not statistically significant. This means there is not enough evidence to reject. 
+
