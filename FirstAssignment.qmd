@@ -199,4 +199,18 @@ Prev: 6.7%
 pvalue 0.1987
 
 Since the p value is greater than 0.05 the result is not statistically significant. This means there is not enough evidence to reject. 
+______________________________________________________________________
+Worksheet 7
+1. Nipah virus ecology varies across regions; resulting in distinct patterns of transmission in places like Malaysia and Bandladesh. Describe how the modes fo transmission differ between these two regions and explain how these difference influence the preventative measures reccomended in each setting. 
 
+In Malaysia there are two pathways in which transmission occurs. The bats partially eats on a fruit and leaves the virus in it. Then an animal like a pig eats it and people working close get infected. This can shape preventation by increasing protection for humans working with pigs. They can also protect pigs from infected bats species and limiting their interaction wtih bats and fruits they feed on. Overall, more straitgies can be in place for livestock management. 
+
+In Bangladesh there is one pathway where bats urinate or leave feces in pots and then humans consume and gets the virus. Preventative stratigies include managing pots or finding a way to purify sap. They can also encourage beteer protocol for retrieving sap from pots. 
+
+2. Avian reoviruses can be transmitted through multiple routes. Describe the different transmission routes of ARV and explain which environmental factors favor its transmission. What pathogen characteristics support one of these transmission routes? Finally, provide an example of a wild bird disease caused by ARV and briefly describe its impact on the affected population. 
+
+Horizontal transmission route of ARV include birds consuming virus shed in contaminated feces, water, or food (fomites). It can be vertically spread when birds pass it to their eggs. Environmental factors favoring transmission include large population of flocks and poor sanitation. Higher temperatures are also great environments for transmission. ARV does not have a lipid envolope making it tolerant of different temperatures and able to withstand sanitization.Bird flu is caused by AVR and spreads within birds, poultry, and other animals. When an ourbreak occurs it increases its risk to infect humans but it is known for impacted food supply be reducing it. 
+
+3. Langya henipavirus is an emerging zoonotic virus first identified in china. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potentional EID? 
+
+Langya's likely reservoir is shrews. Transmission route is humans get infected through direct or indirect contact with an infected animal or their body fluid . It is considered a spill over because there is no evidence of human to human transmission. It is a zoonotic event with low pandemic potentional. 
