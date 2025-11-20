@@ -213,4 +213,24 @@ Horizontal transmission route of ARV include birds consuming virus shed in conta
 
 3. Langya henipavirus is an emerging zoonotic virus first identified in china. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potentional EID? 
 
-Langya's likely reservoir is shrews. Transmission route is humans get infected through direct or indirect contact with an infected animal or their body fluid . It is considered a spill over because there is no evidence of human to human transmission. It is a zoonotic event with low pandemic potentional. 
+Langya's likely reservoir is shrews. Transmission route is humans get infected through direct or indirect contact with an infected animal or their body fluid . It is considered a spill over because there is no evidence of human to human transmission. It is a zoonotic event with low pandemic potentional.
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+The overall prevalence using Sterne Cl. There are 61 total racoons and 29 are infected. The prevalence is 47.2% and interval 0.251-0.999. Prevalence by region include, North: 28.6% , Central: 64.3%, South: 62.8%. It is possible that regional patterns and temperatures associated with prevalence. When specific sex is compared with regions here are the results: 
+Central and Female: 100% with a Sterne Cl: 0.0.549. 
+Central and Male: 44.4% with a Sterne Cl: 0.118-1.00 
+South x Female: 100% with Sterne Cl: 0-0.762
+South x Male : 50.0% with Sterne Cl: 0.293-1.00
+North x Females: 38.1% with Sterne Cl: 0-0.644
+North x Males: 21.4% with Sterne Cl: 0-1.00
+In South and Central regions, females have high prevalence. 
+When age is compared with region, we see higher prevalence in adults in Southern and Central regions. In the North, this is not a big deal because overall prevalence is low. 
+
+Based on these results, South and Central regions exhibit high prevalence. This could mean that the pathogen is in higher counts and transmission is more likely there. Females are also more prone to infections in these regions. This could be significant but I think the population tested could be larger. Overall the prevalence is moderately high. Adults have higher prevalence compared to younger adults. 
+
+Fisher results confirmed the same ideas based on prevalence. South and Central have significantly higher infectious rates than the North. The p-value for North and Central is 0.00256. This is a significant value being that it is less than 0.05 and Central also has a higher prevalence. South and Central have a p value of 1.0 meaning there is no significant differnece. North and South have a p value 0.00151 meaning that there is a significance. 
+
+
+
+
