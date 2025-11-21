@@ -231,6 +231,28 @@ Based on these results, South and Central regions exhibit high prevalence. This 
 
 Fisher results confirmed the same ideas based on prevalence. South and Central have significantly higher infectious rates than the North. The p-value for North and Central is 0.00256. This is a significant value being that it is less than 0.05 and Central also has a higher prevalence. South and Central have a p value of 1.0 meaning there is no significant differnece. North and South have a p value 0.00151 meaning that there is a significance. 
 
+_____________________________________________________________________________________
 
+
+1. In 2024, a multistate Salmonella outbreak was linked to linked to backyard poultry flocks in the United States. What specific human behavoirs contributed to the zoonotic spread of Salmonella? In your response, identity at least three practices by backyard poultry owners that increased the risk of Salmonella transmission and briefly explain why these behaviors facilitated human infection? 
+
+During the Salmonella outbreak of 2024, humans contributed greatly to the spread of the outbreak. One factors was bad hygeine by not washing hands after handling poultry. As with anything else, clean hands are important especially when engaging with animals. It limits the spread of disease and from person to person. This aided in the spread because indiivudals likely touched their mouth and other surfaces, transferring the pathogen. The best practice is to maintain clean conditions by properly washing hands and surfaces. It important to use antimicrobial soap and to wash hands with warm water to eliminate the spread of disease.   Another issue that contributed to the spread of Salmonella was the mishandling birds and using them as pets. It was reported that children had close contact with the flocks. The flocks were also reported to come in and out of the home, aiding in the spread of Salmonella. Our homes are our safe space and introducing bacteria into areas where we eat and sleep can increase chances of catching disease. The birds likely brushed their bodies on surfaces, lefts behind droppings, or even spread the pathogen through human when they were introduced into the house. In the case of the children using flocks as pets, they likely rubbed the birds and cuddled them. This increased the spread because feathers rubbed their face transmitting the disease to them. Ourbreaks are strongly tied to close contact and contamination. It is important to maintain clean environments to prevent the spread of future disease. 
+
+
+2. Tall fecus grass is commonly infected with a fungal edophyte that produces ergot alkaloids associated with fescue toxicosis in grazing livestock. 
+a. What advantages does Tall fescue gain from being infected with a fungal endophyte? 
+
+Some advantages of being infected with a fungal endophyte is that insects are resistant to it and they have enhanced drought tolerance. The fecue shows greater resistance to heat, overgrazing, and environment stress. Since they are in areas with high temperatres the fungal endophyte helps with those elevated conditions. 
+
+
+b. What enivronmental and ecological factors drive the occurence and severity of fescue toxicosis in grazing systems? 
+
+Environmental and ecological factors strongly influence the occurence and severity of fescue toxicosis in grazing systems. Environmental stress causes increaese in ergot alkaloids production. This raises the risk of toxicosis in cattle. This can be due to drought and high temperatrues. Large concentrations of endophytic tall fescue leads to more alkalids and more exposure. When the forage is infected the cattle consume higher levels of ergovaline. Season patterns play a role in its severity because during late spring through fall, alkaloid concentrations ride because seed tissue has the highest alkaoid levels. 
+
+
+
+c. What are the key clinical signs of fescue toxicity in cattle? 
+
+Endophyte in greater concentration in reproductive organs. Cattles not able to gain weight is an indicator of fescue toxicity. Body response to the heat is also a sign. These include, elevated body temperature, fast breathing, and reduced grazing activity. Alkaoids reduce prolactin levels, cuasing poor lactation and hair less. In major cases, vasoconstriction can lead to lamenss or even necrosis also known as fescue foot. 
 
 
