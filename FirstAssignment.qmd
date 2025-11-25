@@ -254,5 +254,57 @@ Environmental and ecological factors strongly influence the occurence and severi
 c. What are the key clinical signs of fescue toxicity in cattle? 
 
 Endophyte in greater concentration in reproductive organs. Cattles not able to gain weight is an indicator of fescue toxicity. Body response to the heat is also a sign. These include, elevated body temperature, fast breathing, and reduced grazing activity. Alkaoids reduce prolactin levels, cuasing poor lactation and hair less. In major cases, vasoconstriction can lead to lamenss or even necrosis also known as fescue foot. 
+_________________________________________________________________________________________________
 
+To: Alabama Public Health Department 
+From: Chailyn Robinson, MST-NT Student
+Date: November 24, 2025
+
+Subject: Mood Overview and Strategic Response Recommendations 
+
+This memo will explain Mpox, highlighting its impact and offering actionable recommendations in order to aid in preparedness and strategic response within the state level. This discussion will incorporate disease ecology principles, emphasizing host-pathogen interaction and 
+
+Background on Mpox
+Mpox previously called Monkeypox is an Orthopoxvirus whose primary reservoir is thought to be a rodent found in Africa. The virus has two clades (Clade I and 2), each with two distinct subclades. Although Mpox is not a widespread threat in the United States, it caused a notable outbreak in 2022. In response, the CDC ramped up diagnostic testing and vaccinations to reduce the spread. ​​The CDC’s responses addressed health equity and pushed the importance of surveillance and testing. 
+A.Transmission Pathway
+Animal to Human: Transmitted from contact with infected animals; e.g. scratches, secretions. 
+This highlights the classic host-pathogen spillover where ecological interaction between human and reservoir species allows the virus to spread across species. 
+Human to Human:  Once the virus has spilled over into humans, humans are then able to spread it amongst each other. The virus can spread through droplets or by rash. Human to human transmission shows the shift from wildlife-linked spillover to sustained epidemic potential. 
+
+B. Geographic Distribution
+Mpox is endemic to regions of Central and West Africa.  Global travel has allowed the virus to appear in non-endemic regions. Recently in 2024, the WHO and Africa CDC issued emergency declarations due to a rise in cases and its expansion amongst geographic regions. This expansion underscores how environmental, ecological, and social factors can reshape pathogen distribution. 
+
+C. Clinical Presentation 
+Signs and symptoms typically begin 1 to 21 days after exposure to Monkeypox virus. The most prominent symptoms are skin rashes (papules) accompanied by fever, headache, muscle aches, back pain, fatigue, and swollen lymph nodes. The rash typically begins on the face and spreads elsewhere on the body. This is not always the case and can also begin at the site of contact. 
+
+
+
+
+D. Case Implication
+An imported case into the United States could pose several potential interconnect risks for public health officials. The 2022 outbreak is a great example of how an individual case can create a major problem. this as it opens the door for:
+	•	Risk of Transmission: A single case of Mpox can initiate human to human spread, especially in close contact networks. 
+	•	Exposure Risk Among Healthcare Workers: Unknown cases can become a threat if improper PPE is used. 
+	•	Potential of Outbreak: Cluster can emerge in areas where there is high physical contact. 
+	•	Strain on Resources: If an outbreak occurs, extensive testing, vaccination efforts, and community outreach must be implemented. 
+
+Guidelines and Recommendations 
+
+Prevention
+Mpox is preventable with a combination of vaccination and behavioral prevention. The recommended vaccine is JYNNEOS. It includes two doses that should be distributed four weeks apart. If exposed, an individual should seek medical attention and that case should be reported. In addition to the vaccine, one can limit skin-to-skin contact with other individuals that have unusual rashes or sores. Practicing good hygiene as well as cleaning and disinfecting frequently used surfaces can limit the spread. 
+
+Management of Suspected Case
+In order to protect those uninfected, the individual should immediately isolate and inform their healthcare physician. Appropriate diagnostic testing like PCR testing of lesions should be done and if results are positive, it should be reported. 
+
+Disease Surveillance 
+Disease surveillance is important for detecting and responding to outbreaks and epidemics. In regards to Mpox, is it crucial because of its spread across international borders through travel and wildlife. Effective surveillance requires organizations across the world to work together to create methods for reporting cases and sharing data. Monitoring trends and identifying threats could limit its transmission. 
+
+Educating Healthcare Providers
+Historically, Mpox carried social stigma which discouraged affected individuals from getting the hair they needed. Improved education can help recognize symptoms early and provide accurate diagnoses. Informed healthcare providers strengthen public health surveillance and is a powerful tool for controlling Mpox. 
+Reference
+
+	•	Giovanetti, M., Cella, E., Moretti, S., Scarpa, F., Ciccozzi, A., Slavov, S. N., Benedetti, F., Zella, D., Ceccarelli, G., Ciccozzi, M., & Borsetti, A. (2023). Monitoring Monkeypox: Safeguarding Global Health through Rapid Response and Global Surveillance. Pathogens (Basel, Switzerland), 12(9), 1153. https://doi.org/10.3390/pathogens12091153
+	•	Kffjoshuam. (2025, August 9). The current international MPOX Emergency and the U.S. Role: An Explainer. KFF. https://www.kff.org/global-health-policy/the-current-international-mpox-emergency-and-the-u-s-role-an-explainer/ 
+	•	World Health Organization. (n.d.). Mpox. World Health Organization. https://www.who.int/news-room/questions-and-answers/item/mpox 
+	•	World Health Organization. (n.d.-a). Mpox. World Health Organization. https://www.who.int/news-room/fact-sheets/detail/mpox 
+	•	Kffjoshuam. (2025, August 9). The current international MPOX Emergency and the U.S. Role: An Explainer. KFF. https://www.kff.org/global-health-policy/the-current-international-mpox-emergency-and-the-u-s-role-an-explainer/ 
 
