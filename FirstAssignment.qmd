@@ -233,6 +233,7 @@ Fisher results confirmed the same ideas based on prevalence. South and Central h
 
 _____________________________________________________________________________________
 
+Worksheet 9 
 
 1. In 2024, a multistate Salmonella outbreak was linked to linked to backyard poultry flocks in the United States. What specific human behavoirs contributed to the zoonotic spread of Salmonella? In your response, identity at least three practices by backyard poultry owners that increased the risk of Salmonella transmission and briefly explain why these behaviors facilitated human infection? 
 
@@ -307,4 +308,20 @@ Reference
 	•	World Health Organization. (n.d.). Mpox. World Health Organization. https://www.who.int/news-room/questions-and-answers/item/mpox 
 	•	World Health Organization. (n.d.-a). Mpox. World Health Organization. https://www.who.int/news-room/fact-sheets/detail/mpox 
 	•	Kffjoshuam. (2025, August 9). The current international MPOX Emergency and the U.S. Role: An Explainer. KFF. https://www.kff.org/global-health-policy/the-current-international-mpox-emergency-and-the-u-s-role-an-explainer/ 
+
+_________________________________________________________________________________________________
+Worksheeet 10 
+
+1. What are the different routes of transmission for African Swine fever? What role do humans play in the spread and transmission of ASF?
+
+African Swine fevercan be transmitted in several different ways. The first is through directly through contacct with with infected salive, blood, urine, or feces. It can be transmitted indirectly when contaminated pork product is ingested. The virus can be passed through mechanical vectors like transport trucks, equpiment, and work clothing. It is also has insect-borne transmission. This occurs when ticks feed on infected pigs and spread the virus. Humans by being more than just a mechanical vector. They a play role in the spillover by transport. This is when pigs and pork products travel across bored. They also play a role in the spread due to feeding practices, illegal trade, and socioeconomic aspects. Poor surveillance can also increase the spread because of delayed detection in smallholder systems.
+
+2. Describe how co-infection with Koala retrovirus affects the severity progression and management of Chlamydia in kolas? 
+
+KoRV causes an immunodeficiency virus and supresses immune system and makes Chlyamydia more severe in kolas. Kolas die at a higher rate and infertility rates decrease. The bacterial load is also higher because of the reduced immune response.  This issue is mulifactorial, which makes it harder to manage. Management of the disease must focus on addressing KoRV and Chlamydia. It should target infertilty, and help with elimnating the bacteria. 
+
+3. Snake Fungal Disease (SFD) caused by Ophidomyces ophiodiicola is an emerging threat to wild snake populations in North America. What are the key challenges associated with the surveillance and management of Snake Fungal Disease? 
+
+Ophidiomyces ophiodiicola is a well adapted pathogen due to its ability to survive in the environment and its broad host range. However there is a lack of information about the disease and there is limited data on current trends. Additionally, diagnostic testing presents challenges including false negatives. 
+
 
