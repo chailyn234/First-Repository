@@ -324,4 +324,103 @@ KoRV causes an immunodeficiency virus and supresses immune system and makes Chly
 
 Ophidiomyces ophiodiicola is a well adapted pathogen due to its ability to survive in the environment and its broad host range. However there is a lack of information about the disease and there is limited data on current trends. Additionally, diagnostic testing presents challenges including false negatives. 
 
+_______________________________________________________________________________
+Final Exam
+1. 
+a. True
+b. False. Viral diseases from vector only are infectious but not always infectious because contagious requires direct or indirect tranmission.
+c False: Eggs are not immediately infectious after excretion becuase they require about two to four weeks of development within the environment. 
+d. True
+e False: Morthern cardinals are considered supersuppressors.
 
+2. 
+Filter water: Lifestraw provided a straw to drink water that filtered the drinking water. This would ultimately prevent ingestion of larva by humans as well as dogs.
+Public education: Community members educated others about avoiding water sources during worm emeergence as well as how to drink safe water. Keeping dogss away from these water sources would be just as important because the tranmission can also be seen within dogs. This alone could break or slow down the transmission cycle by preventing larvae from reaching copepods.
+Incentives: To prevent from spreading to water supply. 
+Larvicde: Used to break transmission in stagnant water and kill intermediate hosts by blocking developement. 
+
+3. Some of the main obstacles wildlife agencies face in managing and controllng CWD. CWD is hard to detect in early phases of the outbreaks. Injfected animals can shed prions before prions showing clinical signs. The pre-symptomatic transmission makes it hard to identify and remove infected individuals before they contaminate the envrionment. CWD is also hard to eliminate once already established. Prions are highly resistant to degradation, persisting in soils plants and waters for years. Ultimately, prions have continous cycle even if animals are removed from contaminated areas. Predicting outbreaks and implementing effective controls requires complex ecological modeling due to the multifaceted challenges. 
+
+4. a. March: New Cases: 3
+			Risk: 3/60
+		 Incidence: 3/60= 0.05 cases per individual per month 
+
+
+April: New cases: 5 
+	 		Risk: 60-3= 57
+	 Incidence:  5/57 = 0.08 cases per individual per month 
+
+	 
+May: New cases: 5
+			Risk: 57-5= 52
+	Incidence:  5/52 = 0.09 cases per individual per month 
+
+	
+June: New cases: 8
+			Risk: 52-5= 47
+	Incidence: 8/47= 0.17 cases per individual per month 
+
+	
+July: New Cases : 13
+			Risk: 47-13=34
+	Incidence: 13/34= 0.38 cases per individual per month 
+	
+b. 
+March: 3/60 = 0.05. 5% of total population infected
+April: 8/60 = 0.133. 13% of total population infected
+May: 13/60 = 0.216.  22% of total population infected
+June: 21/60 = 0.35.   35% of total population infected
+July: 34/60 = 0.56. 56% of total population infected
+
+March had the lowest prevalence and the highest ws july. 
+
+5. a. The etiolgic agent for Tulermia is Francisella tularnesis subspecies holarctica. 
+
+b. Tularmia is transmitted through bites from ticks and deer fly. Ticksare the most frequent vector. It can also be transmitted through sick and dead animals, mainly rodents and rabbits but it can be any wild or domestic animal. More interestingly, it can be transmitted from breathing in bacteria from contaminated sources. 
+
+c. Tulermia is highliy infectious as it can affect skin, eyes, thorat, lungs, and intestines. It is a zoonotic disease of assorted mammals endemic to the Northern Hemishpere. It is sometimes call rabbit fever because it is aossicated with outbreaks in wild rabbits. It has been listed as a category Q bioterrism agent. Incubation period for the disease is a fewdays to 3 weeks. In humans, symptoms typically include headahce, backache, fever, chills, coughing, and weakness. Clinical manifestations are tired to portal of entry. Proper treatment can reduce mortality rate. A major route of transmission is seen through skinning rabbits. The ID is around 10 to 50 organism which is pretty small. 
+
+6. 
+a. 5
+b. 4
+c. 1
+d. 6
+e. 3
+	
+7. a. he two stages of blacklegged tick that can potentiall transmit lyme disease to humans are : nymph and adult female
+
+b. The preferred host of the larval stage of lxodes scapularis are: white footed mice and oter mammals like deers 
+c. Lyme disease risk posed by host seeking nymphs of l. scapularis is greatest during early summer (May and June early August) while lyme disease risk posed by host seeking adults is greatest during fall (End of September-October).
+d. The natural reservoir and competent hosts of Borrelia burgdorferi in North America: white footed mice. White tailed deer are the definitive in the lyme disease system.
+
+8. Zero postives within a sample does not always mean absence. It could mean there is a lower prevalance. Finding zero positives means that there is strong evidence supporting that assumption. This method is mediocore as it is a baseline and only confirms low prevalence before a known case. Zero means that there is not enough to detect CWD with the sample size. This model only shows prevalnce and not spread and transmission and it could mean that the random sampling missed a few infected deers in an emerging hotspot. Metohdd that are more targeted and spatially aware would be great ones to use to confirm disease.
+
+9. A. Upper left 
+Sars Cov has a high rate within human to human transmission and that makes it a pandemic. Between animals and humans the transmission is low once in human population.
+
+B. Low right
+Has a high rate between rodents and humans but no human to human transmission.
+
+C. Low right
+Has animal to human transmission but no evidence pointing to human to human transmission.
+
+D. Low right 
+Transmitted from animals to humans through direct contact and food. Human to human is very rare.
+
+E. Low right 
+Transmission is between mosquito bites and humans. Humans are the dead end host.
+
+ 10. Definitive Host: marine mammal (in this case dolphin) The adult worm lives here and sxually reproduce in intestines of animals. The animals shed the eggs into the ocean. 
+Dead end Host : Humans eat the larvae from raw or undercooked paratenic host. The larvae does not mature into adults so the infection stops here. 
+Paratenic host : seafish and cephalpods eat on small crustaaceans and larvae encyst but dont mature. They carry it as a vehicle until it infects definitive host. 
+Intermediate host: small crustaceans ingest the hatched larvae from the contaminated ocean water where the larvae developed.
+
+11. All infected are diseae is a false statement. We learned that not all infection causes disease (harmful affects such as symptoms). To be infected means that a pathogen entered the body but you could have no symptoms. 
+Infected but not diseased : TB; People can be infected and not show symptoms in the latent stage. TB can be dormant. 
+HIV is another example of this. 
+Infected and disease: Malaria; Plasmodium can causee fever chill and anemia. 
+
+
+12. 1 - (1/R0) = 0.60 so 60% of population must be vaccinated
+
+13. Disease surveillance is important for detecting and responding to outbreaks and epidemics. Many disease have asymptomatic carriers and animals spread pathogens without showong signs. This makes it extremely hard to detect spread and delays control measures. In regards to Mpox, is it crucial because of its spread across international borders through travel and wildlife. Effective surveillance requires organizations across the world to work together to create methods for reporting cases and sharing data. Monitoring trends and identifying threats could limit its transmission. In regards to CWD, active surveillance can be done by systemic capture, sampling, and testing live animals. With CWD it is important to collect deer lymph nodes. Prion persistence and asymptomatic spread calls for active and post mortem surveillannce. Another issue is diagnostic limitations. Testing on wildlife is diffcult, invasive, and even expensive. White nose syndrome in bats would require tissie biposies of wings for diagnosis. Caves are also difficult to gain access to and require even more equipment and personnel, which can ramp up expenses. 
